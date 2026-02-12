@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/escaperoom2.unity
+    guid: 6e0ba6aa2e01f894d9543897db195cba
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4c5bdc17539ff0d4f9c4c52df1af7ded,
       type: 2}
