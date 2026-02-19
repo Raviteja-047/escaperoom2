@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 1244106664972324780}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.41999996, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -90,7 +90,7 @@ MonoBehaviour:
   headAnchor: {fileID: 3487392282510836551}
   leftHandAnchor: {fileID: 720165679887200055}
   rightHandAnchor: {fileID: 3093484343492069491}
-  shrinkHead: 0
+  shrinkHead: 1
   bodyAlignmentRate: 0.01
   playerAvatarChangedEvent:
     m_PersistentCalls:
