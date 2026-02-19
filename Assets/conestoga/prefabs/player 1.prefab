@@ -85,9 +85,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   avatarPrefabs:
-  - {fileID: 4181893516281276952, guid: 5e18ac331146d5c4186ee7765085b0cf, type: 3}
-  - {fileID: 8771091787928289351, guid: 6e1c9c460063b534e887dcbbc4f70b33, type: 3}
-  - {fileID: 6635245195314443262, guid: 536a5c2ca27834e49a8e9a620348f06c, type: 3}
+  - {fileID: 5550837914263560394, guid: 59f8be4a8c227394fa50c338f0d42bd3, type: 3}
+  - {fileID: 3558019559747273653, guid: c6f5a05fa4fe49f43a67541f557d0a29, type: 3}
   headAnchor: {fileID: 3487392282510836551}
   leftHandAnchor: {fileID: 720165679887200055}
   rightHandAnchor: {fileID: 3093484343492069491}
