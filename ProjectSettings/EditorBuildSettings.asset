@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/escaperoom2.unity
     guid: 6e0ba6aa2e01f894d9543897db195cba
+  - enabled: 1
+    path: Assets/conestoga/scenes/nahiscene.unity
+    guid: b7c223ec52b35694d9eb4eccdf9cff6c
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4c5bdc17539ff0d4f9c4c52df1af7ded,
       type: 2}
