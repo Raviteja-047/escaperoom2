@@ -87,6 +87,9 @@ MonoBehaviour:
   avatarPrefabs:
   - {fileID: 5550837914263560394, guid: 59f8be4a8c227394fa50c338f0d42bd3, type: 3}
   - {fileID: 3558019559747273653, guid: c6f5a05fa4fe49f43a67541f557d0a29, type: 3}
+  - {fileID: 822876571252476841, guid: e177c006f7ee7954abe002cc467cab48, type: 3}
+  - {fileID: 4296625379544628661, guid: 247ac538d9113e946a0249c2ecb08ef7, type: 3}
+  - {fileID: 4119318665918509196, guid: 330666a1a7ff65643839092c4b8fdf07, type: 3}
   headAnchor: {fileID: 3487392282510836551}
   leftHandAnchor: {fileID: 720165679887200055}
   rightHandAnchor: {fileID: 3093484343492069491}
