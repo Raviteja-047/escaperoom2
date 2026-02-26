@@ -438,6 +438,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Interaction Setup
       objectReference: {fileID: 0}
+    - target: {fileID: 7873184977108000993, guid: 895f6f3c2d334633b5800312285058d2,
+        type: 3}
+      propertyPath: m_RequestedTrackingOriginMode
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -657,7 +662,7 @@ PrefabInstance:
     - target: {fileID: 3130556819844574636, guid: da3b468b35b58334693dfcd04f6e06a7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.052001
+      value: 0.782
       objectReference: {fileID: 0}
     - target: {fileID: 3130556819844574636, guid: da3b468b35b58334693dfcd04f6e06a7,
         type: 3}
@@ -968,7 +973,7 @@ PrefabInstance:
     - target: {fileID: 8926460010832642627, guid: b608d259d5f995a4f9c8d41566d93989,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.013
       objectReference: {fileID: 0}
     - target: {fileID: 8926460010832642627, guid: b608d259d5f995a4f9c8d41566d93989,
         type: 3}
